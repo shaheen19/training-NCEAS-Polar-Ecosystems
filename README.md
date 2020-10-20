@@ -1,2 +1,2 @@
 # training-test
-NCEAS training, R programming
+NCEAS-arctic data training, is an excellent opportunity to learn R programming.
